@@ -10,5 +10,4 @@ class TestPage extends Component {
     );
   }
 }
-//aa
 export default TestPage;
