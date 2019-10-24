@@ -1,9 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="331ba5b8-0919-4f3b-a519-129599040a0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/sunglasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/upperImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/H1/H1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/background/Background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/iconsDiv/IconsDiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/logoInMenu/LogoInMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/menuDiv/MenuDiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/menuText/MenuText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/socialIcons/SocialIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/subtitle/Subtitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/textInMenu/TextInMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/title/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/Cursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/Links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/Theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/DropDownMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/isLogged.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/isVisible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renders/homepage/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renders/homepage/TestPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SD3Rxg54AQ7uoHYRudMt4BFPie" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\setamy\WebstormProjects\unityarduino\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\setamy\WebstormProjects\unityarduino\src\renders\homepage" />
+      <recent name="C:\Users\setamy\WebstormProjects\unityarduino\src\renders" />
+      <recent name="C:\Users\setamy\WebstormProjects\unityarduino\src" />
+      <recent name="C:\Users\setamy\WebstormProjects\unityarduino\src\components\HomePage" />
+      <recent name="C:\Users\setamy\WebstormProjects\unityarduino\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="331ba5b8-0919-4f3b-a519-129599040a0c" name="Default Changelist" comment="" />
+      <created>1571084334752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571084334752</updated>
+      <workItem from="1571084338005" duration="359000" />
+      <workItem from="1571084758353" duration="5615000" />
+      <workItem from="1571090424363" duration="130000" />
+      <workItem from="1571090571457" duration="1779000" />
+      <workItem from="1571092373194" duration="2803000" />
+      <workItem from="1571095752802" duration="12000" />
+      <workItem from="1571144244440" duration="6901000" />
+      <workItem from="1571156941846" duration="4988000" />
+      <workItem from="1571181536279" duration="4608000" />
+      <workItem from="1571230307485" duration="12251000" />
+      <workItem from="1571265144348" duration="10859000" />
+      <workItem from="1571311971332" duration="12146000" />
+      <workItem from="1571333592353" duration="2957000" />
+      <workItem from="1571410947678" duration="6157000" />
+      <workItem from="1571595242182" duration="18988000" />
+      <workItem from="1571685822301" duration="12310000" />
+      <workItem from="1571744169518" duration="7606000" />
+      <workItem from="1571753778703" duration="7000" />
+      <workItem from="1571759916285" duration="177000" />
+      <workItem from="1571761811173" duration="1722000" />
+      <workItem from="1571828138444" duration="16737000" />
+      <workItem from="1571850033210" duration="22556000" />
+      <workItem from="1571925315624" duration="1954000" />
+      <workItem from="1571942183665" duration="1397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
